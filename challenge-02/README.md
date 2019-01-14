@@ -91,5 +91,11 @@ function outraFunc(n1, n2, n3) {
 
 
 // Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
-?
+
+
+outraFunc() // false
+outraFunc(2) // 2
+outraFunc(2,3) // 5
+outraFunc(2,3,2) // 2.5
+
 ```
